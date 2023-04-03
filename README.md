@@ -1,6 +1,6 @@
 # Calculador de Índice de Massa Corporal (IMC)
 
-Esse projeto foi desenvolvido para colocar em pratica os conceidos de manipulação da DOM com o JavaScript puro!
+Esse projeto foi desenvolvido para colocar em pratica os conceitos de manipulação da DOM com o JavaScript puro!
 
 |                                |                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
